@@ -81,5 +81,20 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/answerButton" />
+    <TextView
+        android:id="@+id/secretAnswer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:background="#8005FA"
+        android:padding="20dp"
+        android:text="@string/correct_answer"
+        android:textAlignment="center"
+        android:textColor="#F8F5F5"
+        android:textSize="48sp"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/answerButton" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
