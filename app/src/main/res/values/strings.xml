@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">HelloWorldProgram</string>
-    <string name="hello_user">Привет, пользователь!</string>
+    <string name="example" translatable="false">1000-7= ?</string>
+    <string name="answer_text">ANSWER</string>
+    <string name="incorrect_answer">Sorry, the answer is incorrect!</string>
+    <string name="correct_answer">You are right!</string>
+    <string name="input_answer">Input answer:</string>
+
 </resources>

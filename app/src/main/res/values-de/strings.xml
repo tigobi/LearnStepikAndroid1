@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">HelloWorldProgram</string>
-    <string name="hello_user">Hallo Benutzer</string>
+    <string name="answer_text">ANTWORT</string>
+    <string name="incorrect_answer">Entschuldigung, die Antwort ist falsch!</string>
+    <string name="input_answer">Antwort eingeben:</string>
+    <string name="correct_answer">Du hast Rechts!</string>
 </resources>
