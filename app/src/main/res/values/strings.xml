@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">HelloWorldProgramm</string>
+    <string name="app_name">HelloWorldProgram</string>
+    <string name="hello_user">Привет, пользователь!</string>
 </resources>
